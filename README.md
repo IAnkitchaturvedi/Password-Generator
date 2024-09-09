@@ -1,3 +1,4 @@
+Live Demo Link : http://127.0.0.1:5500/jsPasswordGenerator/password.html  <br>
 # Password-Generator
 Password Generator <br>
 This is a simple, customizable password generator built with HTML, CSS, and JavaScript. It allows users to generate strong, random passwords based on different criteria such as length, inclusion of uppercase letters, lowercase letters, numbers, and special characters. The generated passwords can be copied for easy use.
